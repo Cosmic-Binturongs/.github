@@ -12,7 +12,7 @@ Ainsley, Andrew, Emil, Guangjian, James, Kevin, Lyndon, Mel, Nasim, Scott
 
 https://github.com/Cosmic-Binturongs/slothstagram
 
-## Twittdeer 🦌
+## Hater 😠
 Arthur, David, Evan, George,, Jeff, Joseph, Laura, Lawrence, Leon, Mustafa
 
-https://github.com/Cosmic-Binturongs/twittdeer
+https://github.com/Cosmic-Binturongs/hater
